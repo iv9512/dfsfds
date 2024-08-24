@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="342" height="103" viewBox="0 0 342 103">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #fff;
+        stroke-width: 1px;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="0.5" y="0.5" width="341" height="102" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="0.45" dy="1.949" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.646"/>
+      <feFlood result="flood" flood-opacity="0.35"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g style="fill: #fff; filter: url(#filter)">
+    <rect id="Rounded_Rectangle_2_copy_8" data-name="Rounded Rectangle 2 copy 8" class="cls-1" x="6.5" y="4.5" width="328" height="89" rx="10" ry="10" style="stroke: inherit; filter: none; fill: inherit"/>
+  </g>
+  <use xlink:href="#Rounded_Rectangle_2_copy_8" style="stroke: #fff; filter: none; fill: none"/>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="118" height="119" viewBox="0 0 118 119">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1025ef;
+        fill-rule: evenodd;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="1031" y="555" width="118" height="119" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="0.45" dy="1.949" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.828"/>
+      <feFlood result="flood" flood-opacity="0.35"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="Ellipse_3_copy_9" data-name="Ellipse 3 copy 9" class="cls-1" d="M1089.39,560.392a51.376,51.376,0,1,1-51.35,51.376A51.372,51.372,0,0,1,1089.39,560.392Z" transform="translate(-1031 -555)"/>
+</svg>

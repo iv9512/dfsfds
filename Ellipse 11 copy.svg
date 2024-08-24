@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="396" height="402" viewBox="0 0 396 402">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #1025ef;
+        stroke-width: 1px;
+        stroke-dasharray: 4 2;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="0.5" y="0.5" width="395" height="401" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="0.45" dy="1.949" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.646"/>
+      <feFlood result="flood" flood-opacity="0.35"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g style="fill: #fff; filter: url(#filter)">
+    <ellipse id="Ellipse_11_copy" data-name="Ellipse 11 copy" class="cls-1" cx="197.5" cy="198.938" rx="191" ry="193.563" style="stroke: inherit; filter: none; fill: inherit"/>
+  </g>
+  <use xlink:href="#Ellipse_11_copy" style="stroke: #1025ef; filter: none; fill: none"/>
+</svg>

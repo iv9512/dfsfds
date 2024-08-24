@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="138" height="32" viewBox="0 0 138 32">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 25px;
+        font-family: "MOON GET!";
+        font-weight: 800;
+      }
+    </style>
+  </defs>
+  <text id="Docker" class="cls-1" transform="translate(0.517 24.803) scale(1.19 1.19)">Docker</text>
+</svg>
